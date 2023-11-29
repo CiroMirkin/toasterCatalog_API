@@ -1,0 +1,9 @@
+[
+    {
+        "id": "0",
+        "name": "Ardu",
+        "logo-url": "https://acdn.mitiendanube.com/stores/001/858/872/themes/common/logo-1053699987-1634225908-7372df2d4eaf591be44bf04e7d5a046e1634225908-320-0.webp",
+        "website": "https://www.ardu.com.ar/",
+        "instagram": "https://instagram.com/arducafe"
+    }
+]
